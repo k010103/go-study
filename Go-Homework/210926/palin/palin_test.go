@@ -1,8 +1,6 @@
 package palin
 
-import (
-	"testing"
-)
+import "testing"
 
 func TestOne(t *testing.T) {
 	expected := "yes"
